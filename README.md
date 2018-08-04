@@ -19,7 +19,7 @@ After that, you need to go to infura to get the rinkby end point url.
 
 Then, copy the env.js.example to env.js and add the web3Url and privateKey information in testnet.
 
-Now, you can deploy your first multi-signature wallet!
+Now, you can deploy your first multi-signature wallet on rinkby testnet!
 
 ```
 truffle deploy address1, address2, address3 comfirmationNumber --network testnet
